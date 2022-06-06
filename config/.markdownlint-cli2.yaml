@@ -1,0 +1,4 @@
+customRules:
+  - "./demo.js"
+  # need to have an absolute path - otherwise the tests are not working
+  # - "c:/git-repositories/markdownlint-cli2-relative-customrule/config/demo.js"
